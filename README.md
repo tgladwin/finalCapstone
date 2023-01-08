@@ -1,2 +1,0 @@
-# finalCapstone
-Stored Capstone Projects
